@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DependentLayout
+        xmlns:ohos="http://schemas.huawei.com/res/ohos"
+        ohos:width="match_parent"
+        ohos:height="match_parent"
+        ohos:background_element="#000000">
+    <Text
+            ohos:id="$+id:text"
+            ohos:width="match_content"
+            ohos:height="match_content"
+            ohos:center_in_parent="true"
+            ohos:text="欢迎召唤师"
+            ohos:text_color="white"
+            ohos:text_size="32fp"/>
+    <Button
+            ohos:id="$+id:button"
+            ohos:width="match_content"
+            ohos:height="match_content"
+            ohos:text_size="19fp"
+            ohos:text="下一步"
+            ohos:top_padding="8vp"
+            ohos:bottom_padding="8vp"
+            ohos:right_padding="80vp"
+            ohos:left_padding="80vp"
+            ohos:text_color="white"
+            ohos:background_element="$graphic:button_element"
+            ohos:center_in_parent="true"
+            ohos:align_parent_bottom="true"/>
+</DependentLayout>
