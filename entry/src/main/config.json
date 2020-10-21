@@ -46,6 +46,16 @@
         "label": "helloHermonyOS",
         "type": "page",
         "launchType": "standard"
+      },
+      {
+        "orientation": "landscape",
+        "formEnabled": false,
+        "name": "com.vermouth.hellohermonyos.SecondAbility",
+        "icon": "$media:icon",
+        "description": "$string:secondability_description",
+        "label": "entry",
+        "type": "page",
+        "launchType": "standard"
       }
     ]
   }
